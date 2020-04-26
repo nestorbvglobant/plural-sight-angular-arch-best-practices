@@ -1,2 +1,2 @@
 # plural-sight-angular-arch-best-practices
-Code from Plural Sight Angular Architechture Best Practices
+Code from Plural Sight Angular Architechture Best Practices's course. 
